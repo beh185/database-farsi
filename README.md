@@ -15,7 +15,7 @@
 - Persian 🇮🇷
 - Swiss German 🇨🇭
 
-**Also, you can [downland Tr.xz]() version of this repository which files size reduced**
+**Also, you can [downland Tr.xz](https://github.com/beh185/words-database/releases/download/v2.1.0/words-database.tar.xz) version of this repository which files size reduced**
 
 ---
  - Source of Japanese & Turkish words  [wiktionary](https://en.wiktionary.org/) 
