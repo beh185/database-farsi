@@ -1,4 +1,4 @@
-**We store words list from different country include:**
+**We store words list from different countries include:**
 - Arabic 🇸🇦
 - Chinese 🇨🇳
 - Danish 🇩🇰
